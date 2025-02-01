@@ -75,6 +75,11 @@ Visit `http://localhost:3000` to view the application in your browser.
 You can view the demo video here:  
 [Demo Video - Google Drive](https://drive.google.com/file/d/1EIILoZZ01m4NRkIvcMAzdiu67J9wjD5Y/view?usp=sharing)
 
+## Screenshots
+
+Here’s a screenshot of the project:  
+![Shop Hub Screenshot](https://github.com/Durgaprasd25d/my-bio/blob/main/Screenshot%202025-02-01%20211539.png)
+
 ## Contribution
 
 Feel free to fork the repository and make improvements. If you encounter any issues or have suggestions, feel free to open an issue or a pull request.
